@@ -1,8 +1,4 @@
-# moviegeek
-
-The MovieGEEKs is a movie site implemented to accompany my book
-["Practical Recommender Systems"](https://www.manning.com/books/practical-recommender-systems).
-It is used in the book to show how recommender systems work, and how you can implement them. 
+# movierecommendation
 
 The book is still being written, and so this is still under construction.
 
