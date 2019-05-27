@@ -1,4 +1,4 @@
-# movierecommendation
+# movie recommendation
 
 The book is still being written, and so this is still under construction.
 
